@@ -9,5 +9,5 @@ __version__ = '0.12'
 __author__ = 'Seonghyun Kim'
 __license__ = 'MIT'
 
-from markovy.markovchains import MarkovChains
+from shellpy.shell import ShellPy
 
